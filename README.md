@@ -1,6 +1,6 @@
 ### Hello, World! Call me Gio👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="256" />
 
  ### I'm ENFP, like Ninfadora, ops, Tonks
 
