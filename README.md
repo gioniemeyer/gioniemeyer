@@ -1,6 +1,6 @@
 ### Hello, World! Please, call me Gio 👋
 
- <img align="right" alt="GIF" src="https://c.tenor.com/qb36GNMGgX0AAAAM/cat-computer.gif" width="400" height="256" />
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="400" height="256" />
 
  ### I'm ENFP, like Ninfadora, ops, Tonks
 
@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my graduation thesis
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate, online and offline, so that the world is a better place for everyone to live
-- 💬 Ask me about ... anything, I love to talk
+- 💬 Ask me about ... anything! I love to talk
 - 😻 Fun fact: While I'm coding there's at least a 90% chance that one of my cats is sleeping on my lap
 
 ### Languages and Tools:
