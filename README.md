@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: She / Her
 - 🐇 I’m currently working as FullStack Developer
-- 👩🏻‍💻 I’m currently learning Django and Docker
+- 👩🏻‍💻 I’m currently learning Docker
 - 👯 I’m looking to collaborate, online and offline, so that the world is a better place for everyone to live (and not only survive)
 - 💬 Ask me about ... anything! I love to talk
 - 😻 Fun fact: While I'm coding there's at least a 90% chance that one of my cats is sleeping on my lap
