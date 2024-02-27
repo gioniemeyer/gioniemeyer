@@ -5,11 +5,10 @@
  ### I'm ENFP, like Ninfadora, ops, Tonks
 
 - 😄 Pronouns: She / Her
-- 🐇 I’m currently working as Backend Developer
-- 👩🏻‍💻 I’m currently learning NestJS and Docker
-- 👯 I’m looking to work in a more equal world and with more women developers
+- 🐇 I’m currently working as Low Code Developer
+- 👩🏻‍💻 I’m currently learning NestJS
 - 💬 Ask me about ... anything! I love to talk
-- 😻 Fun fact: I love cats and have 4 of then 
+- 😻 Fun fact: I love cats and have 3 of then 
 
 ### Languages and Tools:
 
